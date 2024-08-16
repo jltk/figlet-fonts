@@ -1,6 +1,6 @@
 # figlet-fonts
 
-ASCII fonts for toilet/figlet.
+ASCII fonts for toilet and figlet.
 
 ## 3x3s.flf
 
@@ -20,7 +20,7 @@ ASCII fonts for toilet/figlet.
 
 ```
 
-## Lower B.flf
+## lowerb.flf
 
 ```
       █               █        ▄▀▀       █      ▀    ▀ █    █                   
